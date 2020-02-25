@@ -17,3 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # Val-App
 A valentine application 
+## Application UI
+![Image description](/assets/images/val1.jpg)
+![Image description](/assets/images/val2.jpg)
+![Image description](/assets/images/val3.jpg)
+![Image description](/assets/images/val4.jpg)
